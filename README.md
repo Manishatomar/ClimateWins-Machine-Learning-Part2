@@ -19,4 +19,4 @@ The project files are organized into the following folders:
   * Prepared Data: scaled weather data + images
 * 03 Scripts #2: contains Jupyter notebooks documenting the current phase of the project.
 * 04 Analysis/Visualizations: holds relevant visuals.
-* 05 Sent to Client: contains pdf presentations and reports to ClimateWins stakeholders.
+* 05 Sent to Client: contains [pdf presentations](https://github.com/Manishatomar/Dataset/blob/main/Manisha%20Achievement%202-Task%202.6.pdf) and reports to ClimateWins stakeholders.
